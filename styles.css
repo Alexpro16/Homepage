@@ -1,0 +1,36 @@
+#name {
+    font-family: "MyriadProRegular";
+    text-emphasis: bold;
+    color: darkgreen;
+}
+.list {
+    font-family: "MyriadProRegular";
+}
+
+.title {
+    font-family: "MyriadProRegular";
+    text-emphasis: bold;
+    text-align: center;
+}
+
+.num1 {
+background-color: white;
+}
+
+.h01 {
+    text-align: center;
+    color: darkgreen;
+    margin: 0;
+    font-family: "MyriadProRegular";
+    font-size: 3em;
+}
+
+.p1 {
+    text-align: center;
+    color: darkolivegreen;
+    padding-right: 10px;
+    box-sizing: border-box;
+    float: left;
+    font-family: "MyriadProRegular";
+    font-size: 2.8em;
+}
